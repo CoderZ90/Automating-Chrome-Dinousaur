@@ -2,16 +2,19 @@
 
 ## Instructions
 
-### Step One - Go to - `chrome://dino`
+#### Step One - Go to - `chrome://dino`
 
-### Step Two - Click on `HackingChromeDino.js`
+#### Step Two - Copy This Code 
 
-### Step Three - Click on raw and copy the whole code by doing `CTRL + A` and `CTRL + C`
+        fetch("https://raw.githubusercontent.com/CoderZ90/Automating-Chrome-Dinousaur/main/HackingChromeDino.js")
+        .then((res) => res.text()
+        .then((t) => eval(t)))
 
-### Step Four - go to chrome dino website and then press `CTRL + SHIFT + I` and then click on console
 
-### Step Five - Paste the code by pressing `CTRL + V` and hit enter 
+### Step Three - go to chrome dino website and then press `CTRL + SHIFT + I` and then click on console
 
-### Step Six - Run the game and play
+### Step Four - Paste the code by pressing `CTRL + V` and hit enter 
+
+### Step Five - Run the game and play
 
 Note!! - when you get out you need to paste the code again to start 🌟
