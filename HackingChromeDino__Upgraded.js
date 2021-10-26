@@ -83,3 +83,5 @@ setInterval(function () {
       Runner.instance_.horizon.obstacles[0].yPos <= 75 &&
       keyDown(40));
 }, 5);
+
+console.log('Done! Now start the game');
