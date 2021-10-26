@@ -1,5 +1,9 @@
 # Automating-Chrome-Dinousaur
 
+## Normal DINO
+
+<hr>
+
 ## Instructions
 
 #### Step One - Go to - `chrome://dino`
@@ -19,7 +23,11 @@
 
 Note!! - when you get out you need to paste the code again to start 🌟
 
+<hr>
+
 # Super Pro DINO Code
+
+<hr>
 
 ## Instructions
 
